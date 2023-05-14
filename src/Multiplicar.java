@@ -7,6 +7,7 @@ public class Multiplicar {
 			for(int j=0;i<11;i++) {
 				System.out.println(i+" x "+j+" = "+i*j);
 				System.out.println("Tu madre tiene una polla");
+				System.out.println("Nueva rama andres");
 			}
 		}
 	}

@@ -1,4 +1,4 @@
-package default;
+package pkg;
 
 public class Multiplicar {
 
